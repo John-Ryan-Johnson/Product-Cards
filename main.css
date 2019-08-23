@@ -1,0 +1,53 @@
+h1 {
+  text-align: center;
+}
+
+#product-page {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.whole-card {
+  width: 300px;
+  border: 1px solid lightblue; 
+  border-radius: 5px;
+  box-shadow: 4px;
+  margin: 3px;
+  
+ 
+
+}
+.top-card {
+  border-bottom: 1px solid lightblue;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+}
+
+.description {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+.here-or-not {
+  background-color: darkgrey;
+  color: yellow;
+}
+.size {
+  list-style-type: none;
+}
+
+.valid {
+  font-size: 12px;
+}
+
+.quantity {
+  list-style-type: none;
+}
